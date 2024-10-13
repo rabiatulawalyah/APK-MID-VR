@@ -1,0 +1,4 @@
+#Mon Oct 14 02:20:55 SGT 2024
+base.0=D\:\\Semester 5\\Augmented And Virtual Reality\\PROJECT MID\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
